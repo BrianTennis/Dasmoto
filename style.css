@@ -10,7 +10,7 @@ h1 {
     font-weight: bold;
     color: khaki;
     text-align: center;
-    background-image: url(/Resources/Images/pattern.jpeg);
+    background-image: url(./Resources/Images/pattern.jpeg);
 }
 
 h2 {
