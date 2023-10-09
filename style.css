@@ -1,0 +1,39 @@
+/* Dasmoto's Arts & Crafts Styles */
+
+body {
+    font-family: Helvetica, arial, sans-serif;
+}
+
+h1 {
+    font-family: Helvetica, arial, sans-serif;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+    background-image: url(/Resources/Images/pattern.jpeg);
+}
+
+h2 {
+    font-family: Helvetica, arial, sans-serif;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+
+span {
+    font-family: Helvetica, arial, sans-serif;
+    font-weight: bold;
+    color: blue;
+}
+
+#brush {
+    background-color: mediumspringgreen;
+}
+
+#frame {
+    background-color: lightcoral;
+}
+
+#paint {
+    background-color: skyblue;
+}
